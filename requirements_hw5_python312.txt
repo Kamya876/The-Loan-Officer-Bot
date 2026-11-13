@@ -1,0 +1,15 @@
+# HW5 - The Loan Officer Bot
+# Tested package targets for Python 3.12 on Windows.
+# Install from the same Python interpreter/kernel that VS Code will use.
+
+numpy==1.26.4
+pandas>=2.2,<3.0
+scipy==1.13.1
+scikit-learn>=1.4,<1.7
+gensim==4.3.3
+transformers==4.41.2
+torch>=2.2,<3.0
+certifi>=2024.2.2
+packaging>=23.2
+ipykernel>=6.29
+jupyter>=1.0
